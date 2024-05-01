@@ -72,9 +72,7 @@ class: text-center
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IyOTNobjZ2MjdhMzNrdDFzMTNuNXB2MmJxbnRjcnRnZHg0MjBnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xL7PDV9frcudO/giphy.gif" alt="wtf" width="400" class="my-auto mx-auto" />
 
 ---
-layout: image-right
-
-image: /images/hazmat-nuclear-plant.gif
+layout: two-cols
 ---
 
 # En general un protocolo...
@@ -84,6 +82,10 @@ image: /images/hazmat-nuclear-plant.gif
 - Solo se entiende cuando se establece la comunicación.
 - No solo se refiere a la comunicación humana, también puede ser simbólica (lenguaje de señas, lenguaje técnico, etc.).
 - Es lo que hace que Homero no se contamine de radiación 😅.
+
+::right::
+
+<img class="mt-20" src="https://media1.tenor.com/m/v49ejD3SdjwAAAAC/simpsons-caution.gif" alt="radioactive-homero" />
 
 ---
 class: text-center
